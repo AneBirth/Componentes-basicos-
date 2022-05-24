@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "app-curriculo",
-    "slug": "app-curriculo",
+    "name": "componentes básicos ",
+    "slug": "componentes-basicos",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   }
 }
